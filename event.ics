@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hagley West//Blackout Sale Event//EN
+BEGIN:VEVENT
+UID:20251123T190000Z-hw-blackout-sale
+DTSTAMP:20251110T120000Z
+DTSTART:20251123T190000Z
+SUMMARY:Hagley West Blackout Sale Launch
+DESCRIPTION:Don’t miss the Hagley West Blackout Sale Launch!\n\nWATCH LIVE / JOIN HERE:\n• Facebook Event: https://www.facebook.com/events/1529217078095917/\n• Instagram: https://www.instagram.com/timhaydenceo\n• TikTok: https://www.tiktok.com/@timhaydenceo\n\nStarts 7:00 PM GMT / 2:00 PM ET on 23 Nov 2025.\nYou’ll receive automatic reminders 1 day, 1 hour and 10 minutes before it begins.
+LOCATION:Online
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Blackout Sale starts tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Blackout Sale starts in 1 hour
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Blackout Sale starts in 10 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
